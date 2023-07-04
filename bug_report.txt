@@ -1,0 +1,8 @@
+Bug Summary: Missing block name and button name in this block on the page [Anti-money laundering]
+Steps to reproduce:
+1.Navigate to capital.com.
+2.Hover over Menu section [More].
+3.Click Menu item [Anti-money laundering].
+4.Scroll to the block "Better safe than sorry!".
+Actual Result: Missing block name and button name in this block.
+Expected Result: The block and the button in this block have names.
